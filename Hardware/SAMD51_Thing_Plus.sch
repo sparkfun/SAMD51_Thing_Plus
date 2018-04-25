@@ -34468,7 +34468,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="GND26" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="F1" library="SparkFun-Fuses" deviceset="PPTC" device="_THREE-QUARTER-AMP" value="6V/0.75A"/>
 <part name="GND15" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
-<part name="C7" library="SparkFun-Capacitors" deviceset="1.0UF" device="-0805-25V-(+80/-20%)" value="1.0uF"/>
+<part name="C7" library="SparkFun-Capacitors" deviceset="1.0UF" device="-0603-16V-10%-X7R" value="1.0uF"/>
 <part name="C10" library="SparkFun-Capacitors" deviceset="2.2UF" device="-0603-10V-20%" value="2.2uF"/>
 <part name="GND21" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="GND14" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
@@ -34565,7 +34565,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="GND7" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="GND8" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="LOGO1" library="SparkFun-Aesthetics" deviceset="SFE_LOGO_NAME_FLAME" device=".2_INCH"/>
-<part name="J6" library="SparkFun-Connectors" deviceset="USB_MICRO-B" device="_HALF_PTH_MILL"/>
+<part name="J6" library="SparkFun-Connectors" deviceset="USB_MICRO-B" device="_HALF_PTH" value="AMP FCI 10103594-0001LF"/>
 </parts>
 <sheets>
 <sheet>
@@ -34761,7 +34761,9 @@ near U2.53</text>
 <instance part="GND7" gate="1" x="337.82" y="160.02"/>
 <instance part="GND8" gate="1" x="10.16" y="127"/>
 <instance part="LOGO1" gate="G$1" x="272.796" y="2.286"/>
-<instance part="J6" gate="J1" x="330.2" y="233.68"/>
+<instance part="J6" gate="J1" x="330.2" y="233.68" smashed="yes">
+<attribute name="NAME" x="327.66" y="244.094" size="1.778" layer="95" font="vector"/>
+</instance>
 </instances>
 <busses>
 </busses>
