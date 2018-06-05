@@ -25957,7 +25957,6 @@ R_PROG=2k : I_CHG=500mA</text>
 <text x="200.66" y="53.34" size="2.54" layer="94" font="vector" align="top-left">GPIO5 LED</text>
 <text x="332.74" y="104.14" size="2.54" layer="94" align="top-left">Headers</text>
 <text x="421.64" y="10.16" size="2.54" layer="94" font="vector" align="top-left">01</text>
-<text x="288.544" y="1.27" size="1.27" layer="94" font="vector" rot="MR180" align="top-left">Original ESP32 Thing by Jim Lindblom</text>
 <text x="69.088" y="17.78" size="0.4064" layer="94">C8 to be
 near U2.21</text>
 <text x="79.248" y="17.78" size="0.4064" layer="94">C9 to be
