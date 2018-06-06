@@ -25976,8 +25976,8 @@ near U2.53</text>
 <wire x1="259.08" y1="132.08" x2="259.08" y2="193.04" width="0.1524" layer="97" style="longdash"/>
 <wire x1="259.08" y1="132.08" x2="330.2" y2="132.08" width="0.1524" layer="97" style="longdash"/>
 <text x="350.52" y="7.62" size="3.81" layer="94" font="vector">Mike Hord</text>
-<text x="261.62" y="127" size="2.54" layer="91" font="vector">Programming Test Points</text>
-<text x="332.74" y="187.96" size="2.54" layer="91" font="vector">Flash Memory</text>
+<text x="261.62" y="127" size="2.54" layer="94" font="vector">Programming Test Points</text>
+<text x="332.74" y="187.96" size="2.54" layer="94" font="vector">Flash Memory</text>
 </plain>
 <instances>
 <instance part="S1" gate="G$1" x="294.64" y="38.1"/>
@@ -26668,8 +26668,12 @@ near U2.53</text>
 <segment>
 <pinref part="U3" gate="G$1" pin="EN"/>
 <pinref part="R2" gate="G$1" pin="1"/>
-<wire x1="76.2" y1="233.68" x2="71.12" y2="233.68" width="0.1524" layer="91"/>
-<label x="71.12" y="233.68" size="1.27" layer="95"/>
+<wire x1="76.2" y1="233.68" x2="73.66" y2="233.68" width="0.1524" layer="91"/>
+<wire x1="73.66" y1="233.68" x2="71.12" y2="233.68" width="0.1524" layer="91"/>
+<wire x1="66.04" y1="241.3" x2="73.66" y2="241.3" width="0.1524" layer="91"/>
+<wire x1="73.66" y1="241.3" x2="73.66" y2="233.68" width="0.1524" layer="91"/>
+<junction x="73.66" y="233.68"/>
+<label x="66.04" y="241.3" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="D13" class="0">
