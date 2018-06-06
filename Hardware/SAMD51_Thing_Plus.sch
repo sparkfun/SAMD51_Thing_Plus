@@ -25954,8 +25954,8 @@ R_PROG=2k : I_CHG=500mA</text>
 <wire x1="259.08" y1="55.88" x2="259.08" y2="0" width="0.2032" layer="97" style="longdash"/>
 <wire x1="259.08" y1="55.88" x2="198.12" y2="55.88" width="0.2032" layer="97" style="longdash"/>
 <text x="261.62" y="63.5" size="2.54" layer="94" font="vector" align="top-left">Reset Button</text>
-<text x="200.66" y="53.34" size="2.54" layer="94" font="vector" align="top-left">GPIO5 LED</text>
-<text x="332.74" y="104.14" size="2.54" layer="94" align="top-left">Headers</text>
+<text x="200.66" y="53.34" size="2.54" layer="94" font="vector" align="top-left">GPIO13 LED</text>
+<text x="332.74" y="104.14" size="2.54" layer="94" font="vector" align="top-left">Headers</text>
 <text x="421.64" y="10.16" size="2.54" layer="94" font="vector" align="top-left">01</text>
 <text x="69.088" y="17.78" size="0.4064" layer="94">C8 to be
 near U2.21</text>
@@ -25976,6 +25976,8 @@ near U2.53</text>
 <wire x1="259.08" y1="132.08" x2="259.08" y2="193.04" width="0.1524" layer="97" style="longdash"/>
 <wire x1="259.08" y1="132.08" x2="330.2" y2="132.08" width="0.1524" layer="97" style="longdash"/>
 <text x="350.52" y="7.62" size="3.81" layer="94" font="vector">Mike Hord</text>
+<text x="261.62" y="127" size="2.54" layer="91" font="vector">Programming Test Points</text>
+<text x="332.74" y="187.96" size="2.54" layer="91" font="vector">Flash Memory</text>
 </plain>
 <instances>
 <instance part="S1" gate="G$1" x="294.64" y="38.1"/>
