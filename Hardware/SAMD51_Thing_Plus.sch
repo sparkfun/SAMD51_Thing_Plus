@@ -22854,6 +22854,42 @@ Used as a test point connection for pogo pins or other debugging tools.
 <pad name="P$1" x="0" y="0" drill="0.381" diameter="0.6096" stop="no"/>
 <circle x="0" y="0" radius="0.381" width="0" layer="30"/>
 </package>
+<package name="1X12_SM_SQ_NOSILK">
+<pad name="1" x="0" y="0" drill="1.016" diameter="1.27" shape="square"/>
+<pad name="2" x="2.54" y="0" drill="1.016" diameter="1.27" shape="square"/>
+<pad name="3" x="5.08" y="0" drill="1.016" diameter="1.27" shape="square"/>
+<pad name="4" x="7.62" y="0" drill="1.016" diameter="1.27" shape="square"/>
+<pad name="5" x="10.16" y="0" drill="1.016" diameter="1.27" shape="square"/>
+<pad name="6" x="12.7" y="0" drill="1.016" diameter="1.27" shape="square"/>
+<pad name="7" x="15.24" y="0" drill="1.016" diameter="1.27" shape="square"/>
+<pad name="8" x="17.78" y="0" drill="1.016" diameter="1.27" shape="square"/>
+<pad name="9" x="20.32" y="0" drill="1.016" diameter="1.27" shape="square"/>
+<pad name="10" x="22.86" y="0" drill="1.016" diameter="1.27" shape="square"/>
+<pad name="11" x="25.4" y="0" drill="1.016" diameter="1.27" shape="square"/>
+<pad name="12" x="27.94" y="0" drill="1.016" diameter="1.27" shape="square"/>
+<text x="0" y="2.54" size="0.4064" layer="25">&gt;NAME</text>
+<text x="0" y="1.905" size="0.4064" layer="27">&gt;VALUE</text>
+</package>
+<package name="1X16_SM_SQ_NOSILK">
+<pad name="1" x="0" y="0" drill="1.016" diameter="1.27" shape="square"/>
+<pad name="2" x="2.54" y="0" drill="1.016" diameter="1.27" shape="square"/>
+<pad name="3" x="5.08" y="0" drill="1.016" diameter="1.27" shape="square"/>
+<pad name="4" x="7.62" y="0" drill="1.016" diameter="1.27" shape="square"/>
+<pad name="5" x="10.16" y="0" drill="1.016" diameter="1.27" shape="square"/>
+<pad name="6" x="12.7" y="0" drill="1.016" diameter="1.27" shape="square"/>
+<pad name="7" x="15.24" y="0" drill="1.016" diameter="1.27" shape="square"/>
+<pad name="8" x="17.78" y="0" drill="1.016" diameter="1.27" shape="square"/>
+<pad name="9" x="20.32" y="0" drill="1.016" diameter="1.27" shape="square"/>
+<pad name="10" x="22.86" y="0" drill="1.016" diameter="1.27" shape="square"/>
+<pad name="11" x="25.4" y="0" drill="1.016" diameter="1.27" shape="square"/>
+<pad name="12" x="27.94" y="0" drill="1.016" diameter="1.27" shape="square"/>
+<pad name="13" x="30.48" y="0" drill="1.016" diameter="1.27" shape="square"/>
+<pad name="14" x="33.02" y="0" drill="1.016" diameter="1.27" shape="square"/>
+<pad name="15" x="35.56" y="0" drill="1.016" diameter="1.27" shape="square"/>
+<pad name="16" x="38.1" y="0" drill="1.016" diameter="1.27" shape="square"/>
+<text x="0" y="2.54" size="0.4064" layer="25">&gt;NAME</text>
+<text x="0" y="1.905" size="0.4064" layer="27">&gt;VALUE</text>
+</package>
 </packages>
 <symbols>
 <symbol name="CONN_02">
@@ -23635,6 +23671,25 @@ This footprint was designed to help hold the alignment of a through-hole compone
 <technology name=""/>
 </technologies>
 </device>
+<device name="SM_SQ_NO_SILK" package="1X12_SM_SQ_NOSILK">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="10" pad="10"/>
+<connect gate="G$1" pin="11" pad="11"/>
+<connect gate="G$1" pin="12" pad="12"/>
+<connect gate="G$1" pin="2" pad="2"/>
+<connect gate="G$1" pin="3" pad="3"/>
+<connect gate="G$1" pin="4" pad="4"/>
+<connect gate="G$1" pin="5" pad="5"/>
+<connect gate="G$1" pin="6" pad="6"/>
+<connect gate="G$1" pin="7" pad="7"/>
+<connect gate="G$1" pin="8" pad="8"/>
+<connect gate="G$1" pin="9" pad="9"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
 </devices>
 </deviceset>
 <deviceset name="CONN_16" prefix="J" uservalue="yes">
@@ -23791,6 +23846,29 @@ This footprint was designed to help hold the alignment of a through-hole compone
 </technologies>
 </device>
 <device name="1X16_NO_SILK" package="1X16_NO_SILK">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="10" pad="10"/>
+<connect gate="G$1" pin="11" pad="11"/>
+<connect gate="G$1" pin="12" pad="12"/>
+<connect gate="G$1" pin="13" pad="13"/>
+<connect gate="G$1" pin="14" pad="14"/>
+<connect gate="G$1" pin="15" pad="15"/>
+<connect gate="G$1" pin="16" pad="16"/>
+<connect gate="G$1" pin="2" pad="2"/>
+<connect gate="G$1" pin="3" pad="3"/>
+<connect gate="G$1" pin="4" pad="4"/>
+<connect gate="G$1" pin="5" pad="5"/>
+<connect gate="G$1" pin="6" pad="6"/>
+<connect gate="G$1" pin="7" pad="7"/>
+<connect gate="G$1" pin="8" pad="8"/>
+<connect gate="G$1" pin="9" pad="9"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="1X16_SM_SQ_NOSILK" package="1X16_SM_SQ_NOSILK">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="10" pad="10"/>
@@ -25905,8 +25983,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="SUPPLY10" library="SparkFun-Aesthetics" deviceset="3.3V" device=""/>
 <part name="GND8" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="J6" library="SparkFun-Connectors" deviceset="USB_MICRO-B" device="_HALF_PTH" value="AMP FCI 10103594-0001LF"/>
-<part name="J1" library="SparkFun-Connectors" deviceset="CONN_12" device="NO_SILK"/>
-<part name="J2" library="SparkFun-Connectors" deviceset="CONN_16" device="1X16_NO_SILK"/>
+<part name="J1" library="SparkFun-Connectors" deviceset="CONN_12" device="SM_SQ_NO_SILK"/>
+<part name="J2" library="SparkFun-Connectors" deviceset="CONN_16" device="1X16_SM_SQ_NOSILK"/>
 <part name="GND5" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="GND7" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="SUPPLY4" library="SparkFun-Aesthetics" deviceset="3.3V" device=""/>
