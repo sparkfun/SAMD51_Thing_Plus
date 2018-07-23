@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.0.1">
+<eagle version="8.7.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -26034,7 +26034,7 @@ R_PROG=2k : I_CHG=500mA</text>
 <text x="261.62" y="63.5" size="2.54" layer="94" font="vector" align="top-left">Reset Button</text>
 <text x="200.66" y="53.34" size="2.54" layer="94" font="vector" align="top-left">GPIO13 LED</text>
 <text x="332.74" y="104.14" size="2.54" layer="94" font="vector" align="top-left">Headers</text>
-<text x="421.64" y="10.16" size="2.54" layer="94" font="vector" align="top-left">01</text>
+<text x="421.64" y="10.16" size="2.54" layer="94" font="vector" align="top-left">02</text>
 <text x="69.088" y="17.78" size="0.4064" layer="94">C8 to be
 near U2.21</text>
 <text x="79.248" y="17.78" size="0.4064" layer="94">C9 to be
