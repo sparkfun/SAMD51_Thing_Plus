@@ -28324,7 +28324,7 @@ SCL lines</text>
 <instance part="C6" gate="G$1" x="248.92" y="241.3"/>
 <instance part="D2" gate="G$1" x="27.94" y="236.22" smashed="yes">
 <attribute name="NAME" x="29.718" y="239.8014" size="1.778" layer="95" font="vector" rot="R180"/>
-<attribute name="VALUE" x="32.512" y="234.4674" size="1.778" layer="96" font="vector" rot="R180"/>
+<attribute name="VALUE" x="42.672" y="234.4674" size="1.778" layer="96" font="vector" rot="R180"/>
 </instance>
 <instance part="R7" gate="G$1" x="17.78" y="233.68" rot="R90"/>
 <instance part="GND13" gate="1" x="17.78" y="220.98"/>
@@ -28406,8 +28406,12 @@ SCL lines</text>
 </instance>
 <instance part="SUPPLY6" gate="G$1" x="360.68" y="96.52" rot="MR0"/>
 <instance part="R2" gate="G$1" x="73.66" y="231.14" rot="R180"/>
-<instance part="TP1" gate="G$1" x="304.8" y="101.6" rot="R180"/>
-<instance part="TP2" gate="G$1" x="304.8" y="91.44" rot="R180"/>
+<instance part="TP1" gate="G$1" x="304.8" y="101.6" smashed="yes" rot="R180">
+<attribute name="NAME" x="307.34" y="99.06" size="1.778" layer="95" font="vector" rot="R180"/>
+</instance>
+<instance part="TP2" gate="G$1" x="304.8" y="91.44" smashed="yes" rot="R180">
+<attribute name="NAME" x="307.34" y="88.9" size="1.778" layer="95" font="vector" rot="R180"/>
+</instance>
 <instance part="U4" gate="G$1" x="381" y="139.7"/>
 <instance part="R4" gate="G$1" x="355.6" y="154.94" rot="R90"/>
 <instance part="SUPPLY9" gate="G$1" x="355.6" y="165.1"/>
@@ -28416,7 +28420,7 @@ SCL lines</text>
 <instance part="LOGO1" gate="G$1" x="393.7" y="38.1"/>
 <instance part="LOGO3" gate="G$1" x="271.78" y="2.54"/>
 <instance part="LOGO4" gate="G$1" x="304.292" y="15.24"/>
-<instance part="J4" gate="G$1" x="269.24" y="241.3" rot="R270"/>
+<instance part="J4" gate="G$1" x="269.24" y="238.76" rot="MR90"/>
 <instance part="R5" gate="G$1" x="289.56" y="162.56" rot="R90"/>
 <instance part="R9" gate="G$1" x="304.8" y="162.56" rot="R90"/>
 <instance part="JP1" gate="G$1" x="297.18" y="170.18" smashed="yes" rot="R270">
@@ -28572,7 +28576,7 @@ SCL lines</text>
 <wire x1="17.78" y1="223.52" x2="17.78" y2="228.6" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<wire x1="264.16" y1="241.3" x2="261.62" y2="238.76" width="0.1524" layer="91"/>
+<wire x1="264.16" y1="238.76" x2="261.62" y2="238.76" width="0.1524" layer="91"/>
 <pinref part="GND4" gate="1" pin="GND"/>
 <wire x1="261.62" y1="238.76" x2="261.62" y2="228.6" width="0.1524" layer="91"/>
 <pinref part="J4" gate="G$1" pin="-"/>
@@ -28822,7 +28826,7 @@ SCL lines</text>
 <wire x1="33.02" y1="251.46" x2="33.02" y2="248.92" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<wire x1="264.16" y1="238.76" x2="261.62" y2="241.3" width="0.1524" layer="91"/>
+<wire x1="264.16" y1="241.3" x2="261.62" y2="241.3" width="0.1524" layer="91"/>
 <pinref part="SUPPLY25" gate="G$1" pin="V_BATT"/>
 <wire x1="261.62" y1="241.3" x2="261.62" y2="248.92" width="0.1524" layer="91"/>
 <pinref part="C6" gate="G$1" pin="1"/>
