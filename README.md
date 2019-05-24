@@ -1,9 +1,9 @@
-SparkFun ESP32 Thing
+SparkFun SAMD51 Thing Plus
 ========================================
 
-[![SparkFun ESP32 Thing](https://cdn.sparkfun.com//assets/parts/1/1/5/6/4/13907-01.jpg)](https://www.sparkfun.com/products/13907)
+[![SparkFun SAMD51 Thing Plus](https:/://cdn.sparkfun.com/assets/parts/1/2/9/2/7/14713-SparkFun_Thing_Plus_-_SAMD51-01.jpg)
 
-[*SparkFun ESP32 Thing (DEV-13907)*](https://www.sparkfun.com/products/13907)
+[*SparkFun SAMD51 Thing Plus (DEV-14713)*](https://www.sparkfun.com/products/14713)
 
 The [SparkFun ESP32 Thing](https://www.sparkfun.com/products/13907) is a comprehensive development platform for [Espressif's ESP32](https://espressif.com/en/products/hardware/esp32/overview), their super-charged version of the popular [ESP8266](https://www.sparkfun.com/products/13711). Like the 8266, the ESP32 is a **WiFi**-compatible microcontroller, but to that it adds support for **Bluetooth low-energy** (i.e BLE, BT4.0, Bluetooth Smart), and nearly 30 I/O pins. The ESP32's power and versatility will help make it the foundation of IoT and connected projects for many years to come.
 
