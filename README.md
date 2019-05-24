@@ -5,7 +5,9 @@ SparkFun SAMD51 Thing Plus
 
 [*SparkFun SAMD51 Thing Plus (DEV-14713)*](https://www.sparkfun.com/products/14713)
 
-The [SparkFun ESP32 Thing](https://www.sparkfun.com/products/13907) is a comprehensive development platform for [Espressif's ESP32](https://espressif.com/en/products/hardware/esp32/overview), their super-charged version of the popular [ESP8266](https://www.sparkfun.com/products/13711). Like the 8266, the ESP32 is a **WiFi**-compatible microcontroller, but to that it adds support for **Bluetooth low-energy** (i.e BLE, BT4.0, Bluetooth Smart), and nearly 30 I/O pins. The ESP32's power and versatility will help make it the foundation of IoT and connected projects for many years to come.
+With a 32-bit ARM Cortex-M4F MCU, the [SAMD51 Thing Plus](https://www.sparkfun.com/products/14713) is one of our most powerful microcontroller boards yet! The SAMD51 Thing Plus provides you with an economical and easy to use development platform if you're needing more power with minimal working space. This Thing even comes flashed with the same convenient UF2 bootloader as the RedBoard Turbo. To make the Thing Plus even easier to use, we've moved a few pins around to make the board Feather compatible and it utilizes our handy Qwiic Connect System which means no soldering or shields are required to connect it to the rest of your system!
+
+The ATSAMD51J20 utilizes a 32-bit ARM Cortex-M4 processor with Floating Point Unit (FPU), running up to 120MHz, up to 1MB of flash memory, up to 256KB of SRAM with ECC, up to 6 SERCOM interfaces, and other features. In addition to the USB interface and Qwiic connection, a The SAMD51 Thing Plus provides a 600mA 3.3V regulator and LiPo charger.
 
 Repository Contents
 -------------------
@@ -15,27 +17,25 @@ Repository Contents
 
 Documentation
 --------------
-* **[Hookup Guide](https://learn.sparkfun.com/tutorials/esp32-thing-hookup-guide)** - Basic hookup guide for the ESP32 Thing.
-* **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
-* **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products. 
-* **[SparkFun Graphical Datasheets](https://github.com/sparkfun/Graphical_Datasheets)** -Graphical Datasheets for various SparkFun products.
+* [**Hookup Guide**](https://learn.sparkfun.com/tutorials/samd51-thing-plus-hookup-guide) - Basic hookup guide for the SAMD51 Thing Plus.
+* [**Graphical Datasheet**](https://cdn.sparkfun.com/assets/1/7/f/3/e/ThingPlus.pdf)- Graphical datasheet for the SAMD51 Thing Plus.
 
 Product Versions
 ----------------
-* [DEV-13907](https://www.sparkfun.com/products/13907) - Initial release of the ESP32 Thing.
+* [DEV-14713](https://www.sparkfun.com/products/14713) - Initial release of the SAMD51 Thing Plus.
 
 Version History
 ---------------
-* [V_1.0](https://github.com/sparkfun/ESP32_Thing/releases/tag/V_1.0) - Initial release of the ESP32 Thing
+* [V_1.0](https://github.com/sparkfun/SAMD51_Thing_Plus/releases/tag/v1.0.0) - Initial release of the SAMD51 Thing Plus.
 
 License Information
 -------------------
 
 This product is _**open source**_! 
 
-Please review the LICENSE.md file for license information. 
+Please review the LICENSE.md file for license information.
 
-If you have any questions or concerns on licensing, please contact techsupport@sparkfun.com.
+If you have any questions or concerns on licensing, please visit the [SparkFun Forum](https://forum.sparkfun.com/index.php) and post a topic. For more general questions related to the SAMD51 Thing Plus, please visit this section of the forum: [SAMD51 Thing Plus (DEV-14713): Questions and Issues](https://forum.sparkfun.com/viewtopic.php?f=145&t=49984)
 
 Distributed as-is; no warranty is given.
 
