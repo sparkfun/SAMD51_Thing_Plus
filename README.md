@@ -1,7 +1,7 @@
 SparkFun SAMD51 Thing Plus
 ========================================
 
-![SparkFun SAMD51 Thing Plus](https:/://cdn.sparkfun.com/assets/parts/1/2/9/2/7/14713-SparkFun_Thing_Plus_-_SAMD51-01.jpg)
+![SparkFun SAMD51 Thing Plus](https://cdn.sparkfun.com/assets/parts/1/2/9/2/7/14713-SparkFun_Thing_Plus_-_SAMD51-01.jpg)
 
 [*SparkFun SAMD51 Thing Plus (DEV-14713)*](https://www.sparkfun.com/products/14713)
 
