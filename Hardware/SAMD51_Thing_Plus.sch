@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.1.0">
+<eagle version="7.6.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
-<setting keepoldvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
@@ -28227,7 +28226,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="R2" library="SparkFun-Resistors" deviceset="10KOHM" device="-0603-1/10W-1%" value="10k"/>
 <part name="TP1" library="SparkFun-Connectors" deviceset="TEST-POINT" device="TP_15TH_THRU"/>
 <part name="TP2" library="SparkFun-Connectors" deviceset="TEST-POINT" device="TP_15TH_THRU"/>
-<part name="U4" library="SparkFun-IC-Memory" deviceset="AT25SF041" device="" value="4MB Flash"/>
+<part name="U4" library="SparkFun-IC-Memory" deviceset="AT25SF041" device="" value="4Mb Flash"/>
 <part name="R4" library="SparkFun-Resistors" deviceset="10KOHM" device="-0603-1/10W-1%" value="10k"/>
 <part name="SUPPLY9" library="SparkFun-Aesthetics" deviceset="3.3V" device=""/>
 <part name="SUPPLY11" library="SparkFun-Aesthetics" deviceset="3.3V" device=""/>
