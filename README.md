@@ -12,13 +12,15 @@ The ATSAMD51J20 utilizes a 32-bit ARM Cortex-M4 processor with Floating Point Un
 Repository Contents
 -------------------
 
+* **/Documentation** - Documentation (datasheet, graphical datasheet, etc.)
 * **/Hardware** - Eagle design files (.brd, .sch)
 * **/Production** - Production panel files (.brd)
 
 Documentation
 --------------
 * [**Hookup Guide**](https://learn.sparkfun.com/tutorials/samd51-thing-plus-hookup-guide) - Basic hookup guide for the SAMD51 Thing Plus.
-* [**Graphical Datasheet**](https://cdn.sparkfun.com/assets/1/7/f/3/e/ThingPlus.pdf)- Graphical datasheet for the SAMD51 Thing Plus.
+* [**SAMD51 Datasheet**](https://github.com/sparkfun/SAMD51_Thing_Plus/blob/master/Documents/SAMD51_datasheet.pdf)- Datasheet for the SAMD51 chip.
+* [**Graphical Datasheet**](https://github.com/sparkfun/SAMD51_Thing_Plus/blob/master/Documents/SAMD51_Thing_Plus_graphical_datasheet.pdf)- Graphical datasheet for the SAMD51 Thing Plus.
 
 Product Versions
 ----------------
