@@ -37,7 +37,7 @@ This product is _**open source**_!
 
 Please review the LICENSE.md file for license information.
 
-If you have any questions or concerns on licensing, please visit the [SparkFun Forum](https://forum.sparkfun.com/index.php) and post a topic. For more general questions related to the SAMD51 Thing Plus, please visit this section of the forum: [SAMD51 Thing Plus (DEV-14713): Questions and Issues](https://forum.sparkfun.com/viewtopic.php?f=145&t=49984)
+If you have any questions or concerns on licensing, please visit the [SparkFun Forum](https://forum.sparkfun.com/index.php) and post a topic.
 
 Distributed as-is; no warranty is given.
 
