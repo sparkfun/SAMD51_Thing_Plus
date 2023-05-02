@@ -20,7 +20,7 @@ Documentation
 --------------
 * [**Hookup Guide**](https://learn.sparkfun.com/tutorials/samd51-thing-plus-hookup-guide) - Basic hookup guide for the SAMD51 Thing Plus.
 * [**SAMD51 Datasheet**](https://github.com/sparkfun/SAMD51_Thing_Plus/blob/master/Documents/SAMD51_datasheet.pdf)- Datasheet for the SAMD51 chip.
-* [**Graphical Datasheet**](https://github.com/sparkfun/SAMD51_Thing_Plus/blob/master/Documents/SAMD51_Thing_Plus_graphical_datasheet_v01-01.pdf)- Graphical datasheet for the SAMD51 Thing Plus.
+* [**Graphical Datasheet**](https://github.com/sparkfun/SAMD51_Thing_Plus/blob/master/Documents/SAMD51_Thing_Plus_graphical_datasheet_v01-02.pdf)- Graphical datasheet for the SAMD51 Thing Plus.
 
 Product Versions
 ----------------
